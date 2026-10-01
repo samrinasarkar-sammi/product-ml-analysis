@@ -74,14 +74,6 @@ The honest conclusion is that this dataset, in its current small and vocabulary-
 
 Python, pandas, scikit-learn, matplotlib, seaborn
 
-## Project Structure
-
-```
-├── ProductData_Code.ipynb    # Full analysis notebook
-├── Product Data.csv          # Self-collected dataset (not published elsewhere)
-└── README.md
-```
-
 ## About Me
 
 **Samrina Sarkar Sammi** — M2 Data Science & Network Intelligence student, Télécom SudParis
